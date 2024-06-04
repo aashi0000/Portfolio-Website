@@ -15,8 +15,7 @@
 }
 .nav__logo,
 .nav__toggle{
-    /*color: var(--title-color);*/
-    color:blueviolet;
+    color: var(--title-color);
     font-weight: var(--font-medium);
 }
 .nav__logo{
@@ -65,7 +64,8 @@
     .nav{
         height:var(--header-height);
         padding-bottom: 0.7rem;
-        margin-bottom: 0.6rem;
+        margin-top: 0.1rem;
+        margin-bottom: 0.7rem;
     }
     .nav__link{
         flex-direction: column;
