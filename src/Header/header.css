@@ -64,8 +64,8 @@
     .nav{
         height:var(--header-height);
         padding-bottom: 0.7rem;
-        margin-top: 0.1rem;
-        margin-bottom: 0.7rem;
+        margin-top: 0.3rem;
+        margin-bottom: 1rem;
     }
     .nav__link{
         flex-direction: column;
