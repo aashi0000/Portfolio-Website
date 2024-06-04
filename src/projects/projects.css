@@ -107,7 +107,7 @@
   
   @media screen and (max-width: 576px) {
     .projects__container{
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: max-content;
     }
     .projects__modal-content{
         padding: 4.5rem 1.5rem 2.5rem;
