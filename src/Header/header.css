@@ -15,7 +15,7 @@
 }
 .nav__logo{
     color: var(--title-color);
-    font-weight: var(--font-bold);
+    font-weight: bold;
 }
 .nav__toggle{
     color: var(--title-color);

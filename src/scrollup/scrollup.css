@@ -30,12 +30,15 @@
     .scrollup__icon{
         font-size: 1.25rem;
     }
+    .show-scroll{
+        bottom:6rem;
+    }
   }
   
   /* For medium devices */
   @media screen and (max-width: 768px) {
     .show-scroll{
-        bottom: 4rem;
+        bottom: 6rem;
     }
   }
   
