@@ -14,7 +14,7 @@ function Contact() {
             <i className="contact__card-icon uil uil-phone"></i>
             <h3 className="contact__card-title">Phone</h3>
               
-              <span className='contact__details'>+91 9779865975</span>
+              <span className='contact__details'>+91 XXXXXX5975</span>
             </div>
           </div>
         </div>
@@ -27,7 +27,7 @@ function Contact() {
             <i className="contact__card-icon uil uil-whatsapp"></i>
             <h3 className="contact__card-title">Whatsapp</h3>
               
-              <span className='contact__details'>+91 9779865975</span>
+              <span className='contact__details'>+91 XXXXXX5975</span>
             </div>
           </div>
         </div>
