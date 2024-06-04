@@ -63,7 +63,8 @@
     }
     .nav{
         height:var(--header-height);
-        padding-bottom: 2rem;
+        padding-bottom: 0.7rem;
+        margin-bottom: 0.6rem;
     }
     .nav__link{
         flex-direction: column;
