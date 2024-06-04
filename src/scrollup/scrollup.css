@@ -31,14 +31,14 @@
         font-size: 1.25rem;
     }
     .show-scroll{
-        bottom:6rem;
+        bottom:10rem;
     }
   }
   
   /* For medium devices */
   @media screen and (max-width: 768px) {
     .show-scroll{
-        bottom: 6rem;
+        bottom: 10rem;
     }
   }
   
