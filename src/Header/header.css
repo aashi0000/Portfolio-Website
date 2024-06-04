@@ -15,7 +15,8 @@
 }
 .nav__logo,
 .nav__toggle{
-    color: var(--title-color);
+    /*color: var(--title-color);*/
+    color:blueviolet;
     font-weight: var(--font-medium);
 }
 .nav__logo{
