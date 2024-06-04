@@ -4,7 +4,6 @@
     left:0;
     z-index: var(--z-fixed);
     background-color: var(--body-color);
-    filter: brightness(85%);
     border: 1px solid rgba(0,0,0,0.15);
 }
 .nav{
